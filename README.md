@@ -1,223 +1,92 @@
-## Hi there 👋
+# 👋 Hey there, I'm **Mrigesh Koyande** 🚀
 
+<p align="center">
+  <b>🎮 Gaming Content Creator | 📱 Android Developer | 🤖 AI & ML Enthusiast | 📊 Data Analyst</b>
+</p>
 
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Mrigesh Koyande - Portfolio</title>
-  <style>
-    /* Base Styles */
-    body {
-      font-family: Arial, sans-serif;
-      background: linear-gradient(135deg, #89f7fe, #66a6ff);
-      margin: 0;
-      padding: 0;
-      color: #333;
-    }
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCEPou_Of0PlXjsFY2h8km4g"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube" /></a>
+  <a href="https://www.instagram.com/mrigeshkoyande/"><img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram" /></a>
+  <a href="https://in.linkedin.com/in/mrigesh-koyande-783309315"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+</p>
 
-    .header {
-      background: rgba(255, 255, 255, 0.2);
-      backdrop-filter: blur(15px);
-      -webkit-backdrop-filter: blur(15px);
-      color: white;
-      padding: 20px;
-      text-align: center;
-      border-radius: 20px;
-      margin: 20px auto;
-      width: 90%;
-      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
-    }
+---
 
-    .header button {
-      margin-top: 10px;
-      padding: 8px 15px;
-      background-color: rgba(255, 255, 255, 0.3);
-      color: #fff;
-      border: none;
-      border-radius: 10px;
-      cursor: pointer;
-      backdrop-filter: blur(10px);
-      transition: 0.3s;
-    }
+## 🧠 Who Am I?
 
-    .header button:hover {
-      background: rgba(255, 255, 255, 0.5);
-    }
+I’m **Mrigesh Koyande**, a tech-driven gamer and creator from **India 🇮🇳**. I blend **competitive gaming** with **real-world tech skills**, creating content that entertains while I build a strong foundation in **Android Development, AI/ML, and Data Analytics**.
 
-    .content {
-      padding: 20px;
-      max-width: 1000px;
-      margin: 20px auto;
-      border-radius: 20px;
-      background: rgba(255, 255, 255, 0.15);
-      backdrop-filter: blur(15px);
-      -webkit-backdrop-filter: blur(15px);
-      box-shadow: 0 8px 25px rgba(0,0,0,0.25);
-      color: #fff;
-    }
+🎥 With **1200+ YouTube videos**, I’ve built a growing gaming community around **Free Fire Max**, clutch plays, and high-energy live streams.
 
-    .section-title {
-      color: #90ee90;
-      margin-bottom: 10px;
-      font-size: 1.5em;
-      text-shadow: 0 0 5px rgba(0,0,0,0.3);
-    }
+💡 I believe in **learning by building**, **sharing by creating**, and **growing consistently**.
 
-    .skills, .contact {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 20px;
-    }
+---
 
-    .skills div, .contact div {
-      background: rgba(255, 255, 255, 0.15);
-      backdrop-filter: blur(10px);
-      -webkit-backdrop-filter: blur(10px);
-      padding: 15px;
-      border-radius: 15px;
-      flex: 1;
-      min-width: 200px;
-      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
-      color: #fff;
-    }
+## 🚀 What I Do Best
 
-    .links a {
-      display: inline-block;
-      margin: 10px 15px 10px 0;
-      color: #90ee90;
-      text-decoration: none;
-      font-weight: bold;
-      transition: 0.3s;
-    }
+### 🎮 Gaming & Content Creation
 
-    .links a:hover {
-      color: #fff;
-      text-shadow: 0 0 5px #90ee90;
-    }
+* 🔥 Free Fire Max competitive gameplay
+* 💥 1v4 clutch & pressure situations
+* 🎥 Live streaming & audience engagement
+* 📈 YouTube growth & content strategy
 
-    .certifications ul {
-      list-style-type: none;
-      padding: 0;
-    }
+### 📱 Android Development
 
-    .certifications li {
-      margin: 10px 0;
-    }
+* ⚙️ Kotlin & Java
+* 🎨 Modern UI/UX principles
+* 🏗️ MVVM & clean architecture basics
 
-    .footer {
-      text-align: center;
-      padding: 20px;
-      font-size: 0.9em;
-      color: #fff;
-      background: rgba(0,0,0,0.3);
-      margin-top: 20px;
-      border-radius: 15px;
-      width: 90%;
-      margin-left: auto;
-      margin-right: auto;
-    }
+### 🤖 AI & Machine Learning
 
-    /* Dark Mode */
-    body.dark {
-      background: linear-gradient(135deg, #1f1c2c, #928dab);
-      color: #f0f0f0;
-    }
+* 📊 ML fundamentals & algorithms
+* 🧪 Hands-on projects
+* 🧠 TensorFlow & scikit-learn
 
-    body.dark .content {
-      background: rgba(0,0,0,0.3);
-    }
+### 📊 Data Analytics
 
-    body.dark .skills div,
-    body.dark .contact div {
-      background: rgba(0,0,0,0.4);
-    }
+* 🐍 Python for analysis
+* 🗃️ SQL for querying data
+* 📑 Excel for insights & reporting
 
-    body.dark .links a {
-      color: #66ff99;
-    }
+---
 
-    body.dark .header {
-      background: rgba(0,0,0,0.4);
-    }
+## 🧰 Tech Stack
 
-    body.dark .footer {
-      background: rgba(255,255,255,0.1);
-      color: #ccc;
-    }
+```
+Languages   : Kotlin | Java | Python | SQL
+Frameworks  : Android SDK | TensorFlow
+Tools       : Git | GitHub | Excel | VS Code
+Domains     : Android | AI/ML | Data Analytics | Gaming
+```
 
-    /* Responsive Design */
-    @media (max-width: 600px) {
-      .skills, .contact {
-        flex-direction: column;
-      }
+---
 
-      .links a {
-        display: block;
-        margin-bottom: 10px;
-      }
-    }
-  </style>
-</head>
-<body>
-  <header class="header">
-    <h1>Mrigesh Koyande</h1>
-    <p>Gaming Content Creator | Free Fire Max Enthusiast | Android Developer | AI & ML Specialist | Data Analyst</p>
-    <button onclick="toggleDarkMode()">Toggle Dark Mode</button>
-  </header>
+## 📜 Certifications & Learning
 
-  <main class="content">
-    <section>
-      <h2 class="section-title">About Me</h2>
-      <p>I am Mrigesh Koyande, an Indian gaming content creator passionate about Free Fire Max. My YouTube channel showcases intense gameplay, strategic plays, and live interaction with my audience. With over 1,200 videos, I have built a community of enthusiastic gamers and followers. In addition, I am pursuing Android development, AI & ML certifications, and work as a data analyst.</p>
-    </section>
+* 🏆 Android Development Certification
+* 🧠 AI & ML Certification (project-based)
+* 📊 Data Analyst Certification (Python & SQL)
 
-    <section>
-      <h2 class="section-title">Skills</h2>
-      <div class="skills">
-        <div><strong>Game Strategy:</strong> Advanced Free Fire strategies and tips.</div>
-        <div><strong>Clutch Plays:</strong> Specializing in 1v4 and intense clutch moments.</div>
-        <div><strong>Streaming:</strong> Live streaming on YouTube with high engagement.</div>
-        <div><strong>Android Development:</strong> Building mobile apps using Kotlin & Java.</div>
-        <div><strong>AI & ML:</strong> Certified in Machine Learning & AI Algorithms.</div>
-        <div><strong>Data Analysis:</strong> Working with tools like Python, Excel, and SQL.</div>
-      </div>
-    </section>
+---
 
-    <section class="certifications">
-      <h2 class="section-title">Certifications</h2>
-      <ul>
-        <li><strong>Android Development:</strong> Courses in app design, UI, and backend integration.</li>
-        <li><strong>AI & ML Certification:</strong> Projects in TensorFlow and scikit-learn.</li>
-        <li><strong>Data Analyst Certification:</strong> Specialized in Python, SQL, and real-world datasets.</li>
-      </ul>
-    </section>
+## 🌐 Let’s Connect & Collaborate
 
-    <section>
-      <h2 class="section-title">Connect With Me</h2>
-      <div class="links">
-        <a href="https://www.youtube.com/channel/UCEPou_Of0PlXjsFY2h8km4g" target="_blank">YouTube Channel</a>
-        <a href="https://www.instagram.com/mrigeshkoyande/" target="_blank">Instagram Profile</a>
-        <a href="https://in.linkedin.com/in/mrigesh-koyande-783309315" target="_blank">LinkedIn Profile</a>
-      </div>
-    </section>
+* 🎮 **YouTube:** [https://www.youtube.com/channel/UCEPou_Of0PlXjsFY2h8km4g](https://www.youtube.com/channel/UCEPou_Of0PlXjsFY2h8km4g)
+* 📸 **Instagram:** [https://www.instagram.com/mrigeshkoyande/](https://www.instagram.com/mrigeshkoyande/)
+* 💼 **LinkedIn:** [https://in.linkedin.com/in/mrigesh-koyande-783309315](https://in.linkedin.com/in/mrigesh-koyande-783309315)
 
-    <section>
-      <h2 class="section-title">Contact</h2>
-      <div class="contact">
-        <div>Email: <a href="mailto:mrigeshkoyande@gmail.com">mrigesh.koyande@example.com</a></div>
-        <div>Phone: +91 93729 25324</div>
-        <div>Location: Mumbai, India</div>
-      </div>
-    </section>
-  </main>
+---
 
-  <footer class="footer">
-    &copy; 2025 Mrigesh Koyande | All Rights Reserved
-  </footer>
+## 📬 Reach Me
 
-  <script>
-    function toggleDarkMode() {
-      document.body.classList.toggle("dark");
-    }
-  </script>
->
+📧 **Email:** [mrigeshkoyande@gmail.com](mailto:mrigeshkoyande@gmail.com)
+📍 **Location:** Mumbai, India
+
+---
+
+✨ *If you like my work, don’t forget to ⭐ my repositories and support my journey!*
+
+🔥 *Gaming. Building. Learning. Repeating.* 🔥
+
+© 2025 **Mrigesh Koyande**
