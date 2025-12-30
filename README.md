@@ -54,11 +54,36 @@ I’m **Mrigesh Koyande**, a tech-driven gamer and creator from **India 🇮🇳
 ## 🧰 Tech Stack
 
 ```
-Languages   : Kotlin | Java | Python | SQL
-Frameworks  : Android SDK | TensorFlow
-Tools       : Git | GitHub | Excel | VS Code
-Domains     : Android | AI/ML | Data Analytics | Gaming
+Languages   : Kotlin | Java | Python | SQL | C | C++ | HTML | CSS
+Frameworks  : Android SDK | TensorFlow | NumPy | Pandas
+Tools       : Git | GitHub | Excel | VS Code | Power BI | Tableau | Android Studio
+Domains     : Android | AI/ML | Data Analytics | Cybersecurity | Gaming
 ```
+
+---
+
+## 💼 Internship Experience
+
+### 📊 Data Analyst Intern — **Elevate Labs**
+
+🗓️ **Nov 2025 – Dec 2025** · 2 Months
+🌍 Remote
+
+* Analyzed real-world datasets to extract actionable insights
+* Performed data cleaning, transformation, and visualization
+* Worked with **Python, SQL, Excel**, and analytical workflows
+
+---
+
+### 💻 Software Development Engineer (SDE) Intern — **Bluestock™🔺**
+
+🗓️ **Aug 2025 – Sep 2025** · 2 Months
+🌍 Remote
+
+* Developed backend logic using **Node.js (server-side)**
+* Managed and queried **PostgreSQL databases**
+* Collaborated on APIs, system workflows, and debugging
+* Gained exposure to industry-level development practices
 
 ---
 
